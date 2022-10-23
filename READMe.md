@@ -11,7 +11,7 @@
 
 ## Description
 
-_This is a simple webpage that will eventually be used as my programming portfolio, as I complete projects through Epicodus. This webpage uses HTML and CSS, and includes images, explanations of projects, links, contact info, and personal info._
+_This is a simple webpage that will eventually be used as my programming portfolio, as I complete projects through Epicodus. This webpage uses HTML and CSS, and includes images, explanations of projects, links, contact info, and personal info. It uses a floated column layout, and I attempted to optimize it for various size browsers, but I had difficulty using responsive sizing on images. I intend to improve this element of the page by adding Bootstrap styling as I expand my knowledge._
 
 ## Setup/Installation Requirements
 
