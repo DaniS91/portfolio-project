@@ -43,12 +43,14 @@ li a {
   float: left;
   margin: 0;
   width: 480px;
+  padding: 20px;
 }
 
 .projects li {
   max-width: 400px;
   border: 4px black solid;
   padding: 20px;
+  margin: 5px;
 }
 
 .projects ul {
