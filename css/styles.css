@@ -60,3 +60,12 @@ li a {
 .projects ul {
   list-style-type: none;
 }
+
+.pronouns {
+  text-align: right;
+}
+
+span {
+  background-color: #eb9180;
+  color:#303136
+}
