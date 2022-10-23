@@ -45,13 +45,9 @@ li a {
   width: 500px;
 }
 
-.projects img {
-  width: 120px;
-}
-
 .projects li {
   max-width: 400px;
-  border: 2px black solid;
+  border: 4px black solid;
   padding: 20px;
 }
 
