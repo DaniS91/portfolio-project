@@ -32,3 +32,11 @@ p {
 li {
   font-family: Helvetica, Arial, sans-serif;
 }
+.header li{
+  display: inline;
+  padding: 20px;
+}
+
+li a {
+  text-align: center;
+}
