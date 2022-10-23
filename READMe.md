@@ -19,6 +19,10 @@ _This is a simple webpage that will eventually be used as my programming portfol
 * _Navigate to the top level of the directory_
 * _Open index.html_
 
+## GitHub Pages Deployment Link
+
+[GitHub Pages Link](https://danis91.github.io/portfolio-project/)
+
 ## Known Bugs
 
 * _no known bugs_
